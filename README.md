@@ -8,7 +8,7 @@ These have been combined in a single 4hp module which utilises 6.35mm stereo jac
 
 ## Schematic and PCBs
 
-The [KiCad](KiCad) directory contains the schematic and PCB layout as a KiCad 6 project.
+The [kicad](kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
 
 ## Panel
 
