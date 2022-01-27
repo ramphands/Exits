@@ -1,4 +1,5 @@
 # Exits
+![Exits](exits.jpg)
 4hp DIY eurorack line and headphone output module based on the [Nearness](https://github.com/sarnesjo/nearness) and [Forestcaver headphone amp](https://github.com/forestcaver/Analog-Voice/tree/master/AJH_Headphone_Amp) designs
 
 The Nearness section is a "minimal panning mixer for the Eurorack modular synthesizer system. Seven inputs, two outputs. The closer an input is to an output, the greater its influence on it."  
