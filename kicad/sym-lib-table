@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "pj301m12")(type "Legacy")(uri "${KIPRJMOD}/pj301m12.lib")(options "")(descr ""))
+  (lib (name "lme49720")(type "Legacy")(uri "${KIPRJMOD}/lme49720.lib")(options "")(descr ""))
+  (lib (name "SJ-63083A")(type "Legacy")(uri "${KIPRJMOD}/SJ-63083A.lib")(options "")(descr ""))
+)

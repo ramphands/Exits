@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "nearness")(type "KiCad")(uri "$(KIPRJMOD)/exits.pretty")(options "")(descr ""))
+  (lib (name "extra")(type "KiCad")(uri "G:/programs/KiCad/lib/extra")(options "")(descr ""))
+)
