@@ -14,7 +14,7 @@ The [kicad](kicad) directory contains the schematic and PCB layout as a KiCad 6 
 
 ## Panel
 
-Pending (I need to adjust the potentiometer placement and output jack placement due to board revisions)
+Available in the [panel](panel) directory as a PDF and an SVG vector file.
 
 ## Revisions and notes 
 
@@ -23,7 +23,7 @@ This version is an updated version of my original prototype.  Notable changes as
 - Changed the type of jacks used for the output to a more widely-available device, the SJ-63083A.
 - Adjusted positioning of the potentiometer to provide more space between the shaft and the nearest input jacks.
 - Reversed the headphone and line output jacks to the more logical orientation; headphone jack is nearest the headphone volume knob
-### Please not that these changes, while minor, have not been tested, so build at your own risk.
+### Please note that these changes, while minor, have not been tested, so build at your own risk.
 
 ## License
 
