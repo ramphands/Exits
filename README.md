@@ -49,6 +49,7 @@ Available in the [panel](panel) directory as a PDF and an SVG vector file.
 - Add 3d models for all the parts used
 - Add board rendering images to the readme
 - Add test points to make debugging easier
+- Confirm the L&R channels are routed correctly (pan pot orientation)
 - Build one, and confirm all of this works as intended
 
 ## License
