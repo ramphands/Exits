@@ -3097,11 +3097,11 @@
     (pin "1" (uuid 768644fc-ae01-4012-bdba-aba73c67b156))
   )
 
-  (symbol (lib_id "Connector:Conn_01x03_Male") (at 135.89 56.515 180) (unit 1)
+  (symbol (lib_id "Connector:Conn_01x03_Male") (at 135.89 56.515 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a7e7f0c0-b9cf-4531-8150-823ec51bef19)
     (property "Reference" "J5" (id 0) (at 137.795 56.515 0))
-    (property "Value" "Attenuator Jumper 1" (id 1) (at 135.255 62.23 0))
+    (property "Value" "Attenuator Jumper 1" (id 1) (at 135.89 61.595 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 135.89 56.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
