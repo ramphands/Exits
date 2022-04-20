@@ -365,8 +365,32 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.508,
+        "track_width": 0.333,
         "via_diameter": 0.762,
+        "via_drill": 0.381,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.254,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.0508,
+        "microvia_drill": 0.0254,
+        "name": "POWER",
+        "nets": [
+          "+12V",
+          "-12V",
+          "GND",
+          "Net-(D1-Pad2)",
+          "Net-(D2-Pad1)"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "via_diameter": 1.0,
         "via_drill": 0.381,
         "wire_width": 6.0
       }
